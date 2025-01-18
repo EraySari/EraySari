@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Next.js**&**TypeScript**
+- 🌱 I’m currently learning **Next.js** **&** **TypeScript**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/eraysari?tab=repositories)
 
