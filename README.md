@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Next.js** **&** **TypeScript**
-
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/eraysari?tab=repositories)
 
 - 📫 How to reach me **erayssari52@gmail.com**
