@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eray Sari</h1>
 <h3 align="center">I am a Front-End Developer</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React** and **Next.js**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/eraysari?tab=repositories)
 
